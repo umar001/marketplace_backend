@@ -1,0 +1,12 @@
+Welcome to DemoNFT!
+
+Click to sign in and accept the DemoNFT Terms of Service: https://demonft.io/tos
+
+This request will not trigger a blockchain transaction or cost any gas fees.
+
+Your authentication status will reset after 24 hours.
+
+Wallet address:
+0xb7e908f337d99ae74458329fb2561bcc45106b41
+
+Nonce:
